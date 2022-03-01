@@ -1,0 +1,215 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Strange, true, and lamentable newes fron Exceter, and other  parts of the Western countreyes shewing how cruelly the resolute cavaliers have dealt with the inhabitants since the  departure of that right noble commander the Earl of Stamford now Sir Iohn Berkly is chief Governour of Exceter placed there by His Maiesty testified under the hand of VVilliam VVarren Citizen of London living in Threed Needle street, an eye witnesse thereof.</title>
+            <author>Warren, William, Citizen of London.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1643</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 12 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A97228</idno>
+            <idno type="STC">Wing W981</idno>
+            <idno type="STC">Thomason E70_13</idno>
+            <idno type="STC">ESTC R1361</idno>
+            <idno type="EEBO-CITATION">99859506</idno>
+            <idno type="PROQUEST">99859506</idno>
+            <idno type="VID">111592</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A97228)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 111592)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 12:E70[13])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Strange, true, and lamentable newes fron Exceter, and other  parts of the Western countreyes shewing how cruelly the resolute cavaliers have dealt with the inhabitants since the  departure of that right noble commander the Earl of Stamford now Sir Iohn Berkly is chief Governour of Exceter placed there by His Maiesty testified under the hand of VVilliam VVarren Citizen of London living in Threed Needle street, an eye witnesse thereof.</title>
+                  <author>Warren, William, Citizen of London.</author>
+               </titleStmt>
+               <extent>[8] p. : ill.  </extent>
+               <publicationStmt>
+                  <publisher>Printed by John Hammond,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>Anno. Dom. 1643.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Illustrated t.p.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Stamford, Henry Grey, --  Earl of, 1599?-1673.</term>
+               <term>Berkley of Stratton, John Berkley, --  Baron, 1663-1697.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649.</term>
+               <term>Devon (England) --  History --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-05</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-05</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:111592:1" rendition="simple:additions"/>
+            <p>Strange, true, and lamentable NEWES FROM EXCETER, And other parts of the Weſtern countreyes ſhewing how cruelly the reſolute Cavaliers have dealt with the inhabitants ſince the departure of that Right Noble Commander the Earl of <hi>Stamford Now Sir Iohn Berkly is chief Governour of Exceter placed there by His Maieſty,</hi> Teſtified under the hand of <hi>VVilliam VVarren</hi> Citizen of <hi>Lon<g ref="char:EOLhyphen"/>don</hi> living in Threed Needle ſtreet, an eye witneſſe thereof.</p>
+            <figure>
+               <head>Devonſhire.</head>
+               <sp>
+                  <q>
+                     <p>Have pity upon me, Have pity upon me O my friends, for the hand of God hath touched me</p> 
+                     <bibl>Iob 19, verſe 2<gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>.</bibl>
+                  </q>
+               </sp>
+               <figDesc>figurative representation of the biblical passage alluded to in this illustration, composed of a kneeling woman begging for mercy</figDesc>
+            </figure>
+            <p>
+               <add>Octob: 11<hi rend="sup">th</hi>
+               </add> 
+               <hi>LONDON</hi> Printed by <hi>John Hammond Anno. Dom.</hi> 1643.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:111592:2"/>
+            <pb facs="tcp:111592:2"/>
+            <head>The tyranny of the Cavaliers to the inhabitants of the City of <hi>Exceter.</hi>
+            </head>
+            <p>
+               <hi>
+                  <seg rend="decorInit">E</seg>Xceter,</hi> that famous City in the Weſt having moſt nobly for the ſpace of 3 moneths defended themſelves againſt the proud enemy, who had ſo ſtrongly beleaguered the ſaid City of <hi>Exceter,</hi> that the inhabitants thereof, could neither have relief brought them, by land or water, though many times they ſallied forth againſt their foes, and manfully com<g ref="char:EOLhyphen"/>bated with them; the Enemy being at the leaſt, eight men for one, having alſo continuall ſupplies of Victuall, and Ammunition ſent them from the Corniſh Cavaliers and divers other places, the Citizens together with the conſent of that noble Commander the Earl of <hi>Stamford</hi> being in great diſtreſſe for want of relief, and Am<g ref="char:EOLhyphen"/>munition, having firſt made an agreement with Prince <hi>Maurice</hi> up<g ref="char:EOLhyphen"/>on ſeverall Articles, whereby to prevent the reſolute Cavaliers from plundering and pillaging their houſes; the Articles agreed up<g ref="char:EOLhyphen"/>on I could here relate, but that I have greater mattes to inſiſt upon, and beſides there hath been ſomething already Prinred concerning the ſaid Articles, which were agreed upon between Prince <hi>Mavrice</hi> and them that were in the City of <hi>Exceter:</hi> now therefore I hold it a fit and convenient thing to relate unto you the cruell and un<g ref="char:EOLhyphen"/>lawfull dealings of the Cavaliers, after they had entered into the City.</p>
+            <p>When by all that reads or heares this book read, may the better underſtand how farre the deſtroying Enemies are from keeping<g ref="char:EOLunhyphen"/>ing their promiſes, and how little conſcience they make of their wayes: for it is too well known in all the Weſtern part<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, that they which are called Prince <hi>Ruperts</hi> and Prince <hi>Maurice</hi> his Cavaliers are moſt of them addicted to ſuch cruelties, that they ſhew them<g ref="char:EOLhyphen"/>ſelves more like Tigers, or ſavage Beare<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, then humane men, and ſo they may gain wealth they care not who they have it from, nor how they come by it; as ſhall appeare in this following diſcourſe
+<pb facs="tcp:111592:3"/> wherein ſhall be expreſt nothing but what I the Authour of this Newes was an eye witneſſe of, and will maintain it againſt all ob<g ref="char:EOLhyphen"/>jections.</p>
+            <p>The Cavaliers having entered the forenamed City of <hi>Exceter</hi> uſed the people moſt cruelly and did all the violence they could do to them, onely ſparing their lives; whereby we may perceive how farre they are from keeping their promiſes which they make.</p>
+            <p>The rude Souldiers would not forbeare upon the leaſt diſcon<g ref="char:EOLhyphen"/>tent given to them to draw their Rapiers upon the Citizens, and wound them, but eſpecially when they are in their cups, they ſwag<g ref="char:EOLhyphen"/>ger roare, ſweare, and domineere, plundering, pillaging, or doing any other kind of wrong; to break ſhops and houſes, they count it as nothing, taking away Boots, Sho<gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>, Stockings, Hats, or any o<g ref="char:EOLhyphen"/>ther commodities they can lay their hands on, and no Iuſtice dares to reſiſt them, and by this meanes the City is in ſuch a miſerable condition th<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t they are even terrified to the death.</p>
+            <p>The Majeſtrates of the City are fined at extraordinary rates, and when they have payed what the Cavaliers demand, they will force them as they doe in other places to repay it again.</p>
+            <p>Sir <hi>John Berkly</hi> by His Majeſties authority was made Gover<g ref="char:EOLhyphen"/>nour of the City of <hi>Exceter,</hi> who is a member of ſuch vile diſpoſi<g ref="char:EOLhyphen"/>tion that he favours their wicked deſignes, whereby they become the more audacious: I being a native in rhat country am in a very ſad, and ſorrowfull condition for my friends and neighbours who are <hi>Devonſhire</hi> men born and bred. O that I could weep teares of bloud for them which by treachery are brought to everlaſting ſlavery.</p>
+            <p>I grieve the more becauſe I cannot powre forth floods of teares for them. That perfidious <hi>Chudley,</hi> who not onely loſt his oppor<g ref="char:EOLhyphen"/>tunity of <hi>Medbury,</hi> and taking of Sir <hi>Nicholas Sla<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>i<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>g.</hi> and the reſt of his followers, which by humane reaſon would have made the Corniſh Cavaliers never to have entered into <hi>Devonſhire</hi> more, but like a double minded wretch, he did not onely joyn with the e<g ref="char:EOLhyphen"/>nemy, but alſo betrayed us into their hands at <hi>Stratten,</hi> for which piece of Service he was made a Commander amongſt the Cavaliers furthermore to manifeſt hi<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> treacherous heart againſt u<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> he with his Rapier wounded Captain <hi>Turpine</hi> when he was taken priſoner at <hi>Topſham;</hi> a<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſo an unconſtan member whoſe name is Sir <hi>Thomas Heel</hi>
+               <gap reason="missing" extent="2+ pages">
+                  <desc>〈2… pages missing〉</desc>
+               </gap>
+               <pb facs="tcp:111592:3"/> was by the meanes of Sir <hi>Ralph Hopton</hi> made Governour of <hi>Tave<g ref="char:EOLhyphen"/>ſtock,</hi> which lies between <hi>Cornwall</hi> and <hi>Devonſhire,</hi> where he kept continuall Gariſon; but on Wedneſday <hi>September</hi> the nineteenth, Prince <hi>Maurice</hi> came from <hi>Exceter</hi> with 1030 Souldiers, with their Carriages, and Waggons, and lay in <hi>Totnis,</hi> which is ſeven miles from <hi>Dartmouth,</hi> at which place met him five hundred Soul<g ref="char:EOLhyphen"/>diers more, both Horſe and Foot which came from <hi>Tarrington,</hi> and ſo with full reſolution they went to beſiege <hi>Dartmouth,</hi> and to that purpoſe ſent five hundred Dragoneers to <hi>Salcome</hi> to ſtop the paſſa<g ref="char:EOLhyphen"/>ges of any proviſion coming thither; alſo they ſeiſed on all their Boats, Barks and Horſe, whereby to withold proviſion from them; but the men of <hi>Dartmouth</hi> behaved themſelves ſo bravely, that they found a piece of hot Service therein.</p>
+            <p>I do wiſh that <hi>Baſtable, Bediford,</hi> and <hi>Apledore,</hi> with <hi>Grington,</hi> had been of the like reſolution as the <hi>Dartmouth men</hi> were of then had it been more honour for them, then now it is: and they might have avoided the ſlavery which now they endure, for <hi>Dartmouth</hi> men have to my knowledge ſworn to fight it out to the laſt man, rather then they will endure ſuch thraldome as <hi>Exceter</hi> and other places do now enſure, and if the Cavaliers enter there, it ſhall be by the Sword, and yet if they get it that way, it ſhall doe them but lit<g ref="char:EOLhyphen"/>tle good, neither ſhall they long enjoy the town, for why the Sea<g ref="char:EOLhyphen"/>men have vowed to bring their ſhips into the Harbour, and to take in the beſt and the moſt part of the Towns mens goods.</p>
+            <p>The better to manifeſt the inhumanity of rheſe barbarous Cava<g ref="char:EOLhyphen"/>liers <hi>Gloceſter</hi> and <hi>Ciceſter</hi> by wofull experience can teſtifie.</p>
+            <p>
+               <hi>Ciceſter</hi> in <hi>Glocesterſhire</hi> having three ſeverall times manfully withſtood the furious aſſaults of the Cavaliers, was at laſt taken by them, where they uſed ſuch tyrranny that I verily believe, Pagans and Heathens would not have done the like in their own coun<g ref="char:EOLhyphen"/>treyes, for after they had entered the Town by force, they ſlew all the men that ſtood in oppoſition, and thoſe that kindly laid down their Arms to them and yielded, they like unkind uſurpers carried them away to <hi>Oxford</hi> Priſon, where never men indured more miſery, this being done they plundered the Town of Gold, Silver, braſſe, Houſhold ſtuffe, Pewier and Lodging, ſo that from the richeſt to the pooreſt, they were all undone, inſomuch that nei<g ref="char:EOLhyphen"/>ther rich, nor poore, old, nor young, friend nor foe eſcaped their
+<pb facs="tcp:111592:4"/> fury: having acted their inhumane parts at <hi>Cicester,</hi> not long af<g ref="char:EOLhyphen"/>ter they laid ſtrong ſiege againſt <hi>Briſtoll,</hi> threatning the Citizens, that if they would not ſurrender up the ſame, they would uſe all the extremity they could deviſe to ruine and ſlaughter the people, and that they would not leave one man unſtain that ſought to prevent it and keep them out of the City; notwithſtanding the Majeſtrates and Governour of the City of <hi>Briſtoll</hi> oftentimes gave them battell, &amp; moſt valiantly repulſed them which when the Cavaliers Comanders perceived, that by foule means they could not prevail, they chan<g ref="char:EOLhyphen"/>ged their Satyricall language into another ſpeech, and became as men which had altered their minds, ſending a meſſenger into the City which told them if they would ſurrender it up by fair me<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s, they ſhould have faire quarter, and that never a man in the City ſhould have one penniworth of wrong, onely 50000 pound to be given them for compoſition; and all their Souldiers to be new ap<g ref="char:EOLhyphen"/>parelled, which indeed had much need, for I think there were ne<g ref="char:EOLhyphen"/>ver ſo many tattarty mallions ſeen in <hi>Briſtoll</hi> before: but having entered the City, the beſt meat, the choiceſt wine and cleaneſt lod<g ref="char:EOLhyphen"/>ging ſeemed not good enough to pleaſe theſe tattared Cavaliers, who before wanted all things.</p>
+            <p>They went in to ſome Cellars where was plenty of wine, and beere, drank what their gormandiſing guts would hold, and let the reſt run about the houſe, with many other antique tricks that they uſed, which I cannot omit to ſpeake of: moreover they breake the Covenant which was made in every reſpect, the very firſt hour that they entered the City and fell to plundring, pillaging, robbing, ſtealing, cutting and ſlaſhing, as if they never had beene brought up to any other practice; ſo that now they that gave them entrance into the City do ſorely repent the barg<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>an: but now am I conſtrain<g ref="char:EOLhyphen"/>ed to breake off my diſcourſe of <hi>Briſtoll,</hi> which might very well ſerve to fill up a large volume, if I ſhould relate the miſery, and ſlavery that ſome of the people now remaine in which before vſed all the meanes they could to entertaine the Cavaliers into the City of <hi>Bristoll.</hi>
+            </p>
+            <p>Which barbarous uſ<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ge will gain them nothing but hatred and contempt, and I hope in the concluſion their cruelty will fall upon their own heads, and in the ſnare which they have ſet for others ſhall they themſelves be taken.</p>
+            <pb facs="tcp:111592:4"/>
+            <p>We need not go farre to prove the cruelty of theſe rave<g ref="char:EOLhyphen"/>ning wolves; for no further then Hartly Row they took divers poore people and put them into a Pond ſtark naked, up to the knees in dirt, all a vehement cold night, and drove them the next morning before them, calling them Round-headed Citizens, Parliawent Rogues, and Parliament dogs: they likewiſe took divers poore horeſt men, who becauſe they ſaid they were for King and Parliament, they moſt inhumanely cut off their eares, and gave them beſides thir<g ref="char:EOLhyphen"/>ty wounds apiece; and not content with this butchery took them, and threw them on a dunghill, with theſe moſt un<g ref="char:EOLhyphen"/>chriſtian ſcoffes, ſaying let the dogs lick them. They took divers others flying from them, and faſtned cords to their f<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>et, and dragged them up and down the ſtreets, and when they were weary in ſporting themſelves after this ſavage manner, they diſcharged every man three Piſtols apiece at them ſaying, let us trouble our ſelves no more with theſe dogs, and ſo diſcharged them of their torments and l<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ves to<g ref="char:EOLhyphen"/>gether.</p>
+            <p>Theſe cruell inhumane beaſts in the likeneſſe of men kill cattell great with young. Likewiſe when they come where proviſion is, they feed their Horſes with Wheat, tramp<g ref="char:EOLhyphen"/>ling more under their feet, then they eate.</p>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+      <back>
+         <div type="license">
+            <p>This Book is Printed according to Order.</p>
+         </div>
+         <div type="illustration">
+            <pb facs="tcp:111592:5"/>
+            <p>
+               <figure>
+                  <figDesc>depiction of a man tied to a post and beign flogged,presumably to illustrate the cruelty of the Cavaliers to the inhabitants of the western counties</figDesc>
+               </figure>
+            </p>
+            <pb facs="tcp:111592:5"/>
+         </div>
+      </back>
+   </text>
+</TEI>
